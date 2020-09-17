@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Surefire suite" duration-ms="78" started-at="2020-08-30T21:18:32 IST" finished-at="2020-08-30T21:18:33 IST">
+    <groups>
+    </groups>
+    <test name="Surefire test" duration-ms="78" started-at="2020-08-30T21:18:32 IST" finished-at="2020-08-30T21:18:33 IST">
+      <class name="quickstart.SeleniumTest">
+        <test-method status="PASS" signature="BrowserOprn()[pri:0, instance:quickstart.SeleniumTest@7791a895]" name="BrowserOprn" duration-ms="0" started-at="2020-08-30T21:18:33 IST" finished-at="2020-08-30T21:18:33 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BrowserOprn -->
+      </class> <!-- quickstart.SeleniumTest -->
+      <class name="quickstart.ApiTest">
+        <test-method status="PASS" signature="ApiOpen()[pri:0, instance:quickstart.ApiTest@7d907bac]" name="ApiOpen" duration-ms="0" started-at="2020-08-30T21:18:33 IST" finished-at="2020-08-30T21:18:33 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ApiOpen -->
+      </class> <!-- quickstart.ApiTest -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>

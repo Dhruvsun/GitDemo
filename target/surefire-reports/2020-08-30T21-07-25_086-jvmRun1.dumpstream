@@ -1,0 +1,6 @@
+# Created at 2020-08-30T21:07:26.220
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream 'Error occurred during initialization of VM'.
+
+# Created at 2020-08-30T21:07:26.238
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream 'Unable to allocate 31808KB bitmaps for parallel garbage collection for the requested 1017856KB heap.'.
+
